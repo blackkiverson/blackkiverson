@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on an E-commerce Store for a SuperMarket in Nigeria using React with Payload Open-source.<br><br>I'm currently working as a UIUX Deisgner, feel free to reach out.<br><br>Ask me about: Best practices in mobile app development and my journey in tech.<br><br>Fun fact: I started coding when I was 15, and I love blending creativity with technology to solve real-world problems.
+<br>I'm currently working as a UIUX Deisgner, feel free to reach out.<br><br>Ask me about: Best practices in mobile app development and my journey in tech.<br><br>Fun fact: I started coding when I was 15, and I love blending creativity with technology to solve real-world problems.
 
 
 ## 🌐 Socials:
